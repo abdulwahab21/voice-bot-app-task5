@@ -58,7 +58,7 @@ The dialog of chatbot has 8 intents as follow:
 <b>Application:</b>
 <br>
 The application is about a voice bot that run the function “_listen()” by a duration of 5 seconds without a button.
-<br>
+<hr>
 Note: I have built the application in android studio, so I recommend running in android studio. 
 <br>
 Note: to run the application, you should open folder chatbot and run the application.
